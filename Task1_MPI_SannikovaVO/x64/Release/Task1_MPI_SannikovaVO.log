@@ -1,0 +1,7 @@
+﻿  MPI.cpp
+MPI.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 30 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Task1_MPI_SannikovaVO.vcxproj -> C:\Users\Виктория\Documents\Visual Studio 2015\Projects\Task1_MPI_SannikovaVO\Task1_MPI_SannikovaVO\x64\Release\Task1_MPI_SannikovaVO.exe
+  Task1_MPI_SannikovaVO.vcxproj -> C:\Users\Виктория\Documents\Visual Studio 2015\Projects\Task1_MPI_SannikovaVO\Task1_MPI_SannikovaVO\x64\Release\Task1_MPI_SannikovaVO.pdb (Full PDB)

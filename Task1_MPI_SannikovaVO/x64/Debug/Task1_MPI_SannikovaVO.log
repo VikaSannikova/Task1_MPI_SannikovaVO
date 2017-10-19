@@ -1,0 +1,4 @@
+﻿  MPI.cpp
+c:\users\виктория\documents\visual studio 2015\projects\task1_mpi_sannikovavo\task1_mpi_sannikovavo\task1_mpi_sannikovavo\mpi.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Task1_MPI_SannikovaVO.vcxproj -> C:\Users\Виктория\Documents\Visual Studio 2015\Projects\Task1_MPI_SannikovaVO\Task1_MPI_SannikovaVO\x64\Debug\Task1_MPI_SannikovaVO.exe
+  Task1_MPI_SannikovaVO.vcxproj -> C:\Users\Виктория\Documents\Visual Studio 2015\Projects\Task1_MPI_SannikovaVO\Task1_MPI_SannikovaVO\x64\Debug\Task1_MPI_SannikovaVO.pdb (Partial PDB)

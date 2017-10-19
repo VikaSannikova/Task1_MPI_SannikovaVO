@@ -1,0 +1,12 @@
+﻿  MPI.cpp
+c:\users\виктория\documents\visual studio 2015\projects\task1_mpi_sannikovavo\task1_mpi_sannikovavo\task1_mpi_sannikovavo\mpi.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\виктория\documents\visual studio 2015\projects\task1_mpi_sannikovavo\task1_mpi_sannikovavo\task1_mpi_sannikovavo\mpi.cpp(39): warning C4101: 'BufferSize': unreferenced local variable
+c:\users\виктория\documents\visual studio 2015\projects\task1_mpi_sannikovavo\task1_mpi_sannikovavo\task1_mpi_sannikovavo\mpi.cpp(39): warning C4101: 'DataSize': unreferenced local variable
+c:\users\виктория\documents\visual studio 2015\projects\task1_mpi_sannikovavo\task1_mpi_sannikovavo\task1_mpi_sannikovavo\mpi.cpp(39): warning C4101: 'TailData': unreferenced local variable
+MPI.obj : error LNK2019: unresolved external symbol _MPI_Bcast@20 referenced in function _main
+MPI.obj : error LNK2019: unresolved external symbol _MPI_Reduce@28 referenced in function _main
+MPI.obj : error LNK2019: unresolved external symbol _MPI_Comm_size@8 referenced in function _main
+MPI.obj : error LNK2019: unresolved external symbol _MPI_Comm_rank@8 referenced in function _main
+MPI.obj : error LNK2019: unresolved external symbol _MPI_Init@8 referenced in function _main
+MPI.obj : error LNK2019: unresolved external symbol _MPI_Finalize@0 referenced in function _main
+C:\Users\Виктория\Documents\Visual Studio 2015\Projects\Task1_MPI_SannikovaVO\Task1_MPI_SannikovaVO\Debug\Task1_MPI_SannikovaVO.exe : fatal error LNK1120: 6 unresolved externals
